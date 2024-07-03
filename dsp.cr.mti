@@ -1,0 +1,43 @@
+{E:/Digital Course/DSP_Project/adder_sub.v} {1 {vlog -work work -vopt -stats=none {E:/Digital Course/DSP_Project/adder_sub.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module adder_subtracter
+
+Top level modules:
+	adder_subtracter
+
+} {} {}} {E:/Digital Course/DSP_Project/MUX2x1.v} {1 {vlog -work work -vopt -stats=none {E:/Digital Course/DSP_Project/MUX2x1.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module MUX2x1
+
+Top level modules:
+	MUX2x1
+
+} {} {}} {E:/Digital Course/DSP_Project/Register.v} {1 {vlog -work work -vopt -stats=none {E:/Digital Course/DSP_Project/Register.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}} {E:/Digital Course/DSP_Project/MUX4x1.v} {1 {vlog -work work -vopt -stats=none {E:/Digital Course/DSP_Project/MUX4x1.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module MUX4x1
+
+Top level modules:
+	MUX4x1
+
+} {} {}} {E:/Digital Course/DSP_Project/REG_MUX.v} {1 {vlog -work work -vopt -stats=none {E:/Digital Course/DSP_Project/REG_MUX.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module REG_MUX
+
+Top level modules:
+	REG_MUX
+
+} {} {}} {E:/Digital Course/DSP_Project/Spartan6_DSP48A1.v} {1 {vlog -work work -vopt -stats=none {E:/Digital Course/DSP_Project/Spartan6_DSP48A1.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Spartan6_DSP48A1
+
+Top level modules:
+	Spartan6_DSP48A1
+
+} {} {}}

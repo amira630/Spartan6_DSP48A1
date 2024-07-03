@@ -1,0 +1,186 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/qsim_2021_1/Projects/Assignment7/Question1
+T_opt
+!s110 1692810233
+VG[JM7zIA7m8l=;OYm2dP[1
+04 11 4 work DSP_48A1_tb fast 0
+=1-e454e81f9a45-64e63bf8-341-9538
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vadder_subtracter
+Z2 !s110 1692810225
+!i10b 1
+!s100 EY42JP7MLT4L6ePhDC>I41
+IN;fOg0nEUj<C6XkVYW@k83
+Z3 dE:/Digital Course/DSP_Project
+w1692805786
+8adder_sub.v
+Fadder_sub.v
+!i122 19
+L0 1 10
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z6 !s108 1692810225.000000
+Z7 !s107 DSP_48A1_tb.v|Spartan6_DSP48A1.v|MUX2x1.v|MUX4x1.v|Register.v|REG_MUX.v|adder_sub.v|
+Z8 !s90 -reportprogress|300|adder_sub.v|REG_MUX.v|Register.v|MUX4x1.v|MUX2x1.v|Spartan6_DSP48A1.v|DSP_48A1_tb.v|
+!i113 0
+Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vDSP_48A1_tb
+R2
+!i10b 1
+!s100 VOl`LeIVcJQ9g[[g;3G=J3
+I3K4:Ffbk^5aDRH_6eI0<03
+R3
+w1692810219
+8DSP_48A1_tb.v
+FDSP_48A1_tb.v
+!i122 19
+L0 1 212
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
+n@d@s@p_48@a1_tb
+vMUX2x1
+R2
+!i10b 1
+!s100 kKcAZ`a3_^4PP[9Zm4n2f0
+IUZkHB^:5@4LC82z_kfl7^1
+R3
+w1692805792
+8MUX2x1.v
+FMUX2x1.v
+!i122 19
+L0 1 7
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
+n@m@u@x2x1
+vMUX4x1
+R2
+!i10b 1
+!s100 4O0G?0DE?zeI>@<C1PD7O1
+I7?Mg3;Z>81lgT=iUMJoMZ3
+R3
+w1692805791
+8MUX4x1.v
+FMUX4x1.v
+!i122 19
+L0 1 6
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
+n@m@u@x4x1
+vREG_MUX
+R2
+!i10b 1
+!s100 3:<:J:S1]d5NMm_=O<_zj2
+I?=97X4h3U[@HbBGB7;^g:0
+R3
+w1692805788
+8REG_MUX.v
+FREG_MUX.v
+!i122 19
+L0 1 13
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
+n@r@e@g_@m@u@x
+vRegister
+R2
+!i10b 1
+!s100 Bl@IlA<8A<N3?VYh20>bj0
+I39co5Of58oRTcbgm[XkV;0
+R3
+w1692805790
+8Register.v
+FRegister.v
+!i122 19
+L0 1 29
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
+n@register
+vSpartan6_DSP48A1
+R2
+!i10b 1
+!s100 h2]<9UARCbJc]AO8Qh62G1
+IfSTghDmEj=QS>T47fj01_3
+R3
+w1692805785
+8Spartan6_DSP48A1.v
+FSpartan6_DSP48A1.v
+!i122 19
+L0 1 68
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R1
+n@spartan6_@d@s@p48@a1
